@@ -105,7 +105,9 @@ fn pyramid(n: u32) {
 /// A B C D C B A
 /// Napišite funkcijo `fn selection_sort(mut arr: [u32])`, ki uredi tabelo `arr` z uporabo algoritma urejanja z izbiranjem
 
-fn main() {}
+fn main() {
+    println!("Hello world");
+}
 
 #[cfg(test)]
 mod tests {
